@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MrRockyQc.github.io/static/css/main.984242f2.css",
-    "main.js": "/MrRockyQc.github.io/static/js/main.7f8296f5.js",
-    "static/js/787.48a74802.chunk.js": "/MrRockyQc.github.io/static/js/787.48a74802.chunk.js",
-    "static/media/logo.svg": "/MrRockyQc.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MrRockyQc.github.io/index.html",
-    "main.984242f2.css.map": "/MrRockyQc.github.io/static/css/main.984242f2.css.map",
-    "main.7f8296f5.js.map": "/MrRockyQc.github.io/static/js/main.7f8296f5.js.map",
-    "787.48a74802.chunk.js.map": "/MrRockyQc.github.io/static/js/787.48a74802.chunk.js.map"
+    "main.css": "/static/css/main.984242f2.css",
+    "main.js": "/static/js/main.c908a58a.js",
+    "static/js/787.48a74802.chunk.js": "/static/js/787.48a74802.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.984242f2.css.map": "/static/css/main.984242f2.css.map",
+    "main.c908a58a.js.map": "/static/js/main.c908a58a.js.map",
+    "787.48a74802.chunk.js.map": "/static/js/787.48a74802.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.984242f2.css",
-    "static/js/main.7f8296f5.js"
+    "static/js/main.c908a58a.js"
   ]
 }
